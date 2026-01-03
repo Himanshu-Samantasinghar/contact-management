@@ -52,7 +52,7 @@ README
 Installation and Setup
 Step 1: Clone the Repository
 
-git clone https://github.com/your-username/smart-contact-manager.git
+git clone https://github.com/Himanshu-Samantasinghar/smart-contact-manager.git
 
 cd smart-contact-manager
 
