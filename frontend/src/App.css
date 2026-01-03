@@ -1,0 +1,13 @@
+.container {
+  width: 400px;
+  margin: auto;
+  margin-top: 50px;
+  padding: 20px;
+  box-shadow: 0 0 10px #ccc;
+}
+
+input, button {
+  width: 100%;
+  margin: 5px 0;
+  padding: 8px;
+}
