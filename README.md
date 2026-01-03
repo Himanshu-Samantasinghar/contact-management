@@ -75,7 +75,7 @@ cd frontend
 npm install
 npm start
 
-The application will run on http://localhost:3000
+The application will run on [http://localhost:3000](http://localhost:3000/)
 
 API Endpoints
 
